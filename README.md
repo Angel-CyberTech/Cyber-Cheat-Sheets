@@ -5,7 +5,9 @@
 | Guide Name | Description |
 | :--- | :--- |
 | **[Termux Survival Guide](Termux-Cheatsheet.md)** | Essential commands for running Linux on Android/Pixel. |
-| *[More coming soon...]* | *Nmap, Python, and Wireshark notes.* |
+| **[Nmap Scanning Guide](Nmap-Cheatsheet.md)** - Network discovery and port scanning flags.
+
+| *[More coming soon...]* | *Python, and Wireshark notes.* |
 
 ## 🚀 About This Repo
 I created this repository to document the tools and commands I use during my cybersecurity training.
