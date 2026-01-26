@@ -5,7 +5,7 @@
 | Guide Name | Description |
 | :--- | :--- |
 | **[Termux Survival Guide](Termux-Cheatsheet.md)** | Essential commands for running Linux on Android/Pixel. |
-| **[Nmap Scanning Guide](Nmap-Cheatsheet.md)** - Network discovery and port scanning flags.
+| **[Nmap Scanning Guide](Nmap-Cheatsheet.md)**     | Network discovery and port scanning flags.             |
 
 | **[More coming soon...]** | **Python, and Wireshark notes.** |
 
