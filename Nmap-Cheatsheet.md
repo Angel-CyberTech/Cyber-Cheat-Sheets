@@ -44,3 +44,4 @@ Using the Nmap Scripting Engine.
 | `--script=default` | Run basic default scripts. |
 | `--script=vuln` | Check for known vulnerabilities (CVEs). |
 | `--script=http-title` | Grab the title of the website. |
+| `nmap -p 8000 127.0.0.1` | **Loopback Scan.** Checks my own device for open ports. |
