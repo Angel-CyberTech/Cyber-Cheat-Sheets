@@ -1,5 +1,5 @@
 # 🛡️ Angel's Cybersecurity Cheat Sheets
-*Personal reference guides for Red Teaming, Linux, and Network Security.*
+*Personal reference guides for Blue Teaming, Linux, and Network Security.*
 
 ## 📂 Available Guides
 | Guide Name | Description |
